@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Applying_Gradient_and_Shadow_to_Views.iml" filepath="$PROJECT_DIR$/Applying_Gradient_and_Shadow_to_Views.iml" group="Applying_Gradient_and_Shadow_to_Views" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Applying_Gradient_and_Shadow_to_Views/app" />
+    </modules>
+  </component>
+</project>
